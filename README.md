@@ -1,6 +1,5 @@
 ### Hey there!
-I'm a software developer (front-end, c#, maybe some python?)
-
+I'm a software developer (javascript, flask, maybe some front-end)
 <!--
 **qzzwoo/qzzwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
